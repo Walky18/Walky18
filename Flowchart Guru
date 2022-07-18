@@ -1,1 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T20:37:12.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.2" etag="7Nbr5TwzIRB13PdWYaAE" type="github"><diagram id="R9MkMe4YZS-_wOSvyqkh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-18T20:54:18.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XfODPyuyKg4l9avby4le" version="20.0.2" type="github">
+  <diagram id="R9MkMe4YZS-_wOSvyqkh" name="Page-1">
+    <mxGraphModel dx="2012" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=40;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-3" target="UoAHRF-rCDCn4WFifQ72-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-3" value="Login Guru" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-4" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-6" target="UoAHRF-rCDCn4WFifQ72-9">
+          <mxGeometry x="-0.1333" y="30" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-5" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-6" target="UoAHRF-rCDCn4WFifQ72-14">
+          <mxGeometry y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-6" value="Apakah ingin mengisi&lt;br&gt;absen harian bertugas?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-7" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-9" target="UoAHRF-rCDCn4WFifQ72-12">
+          <mxGeometry x="-0.1333" y="30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-8" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-9" target="UoAHRF-rCDCn4WFifQ72-16">
+          <mxGeometry y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-9" value="Apakah ingin mengelola&lt;br&gt;nilai ulangan?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="220" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-10" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-12" target="UoAHRF-rCDCn4WFifQ72-18">
+          <mxGeometry y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-11" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-12" target="UoAHRF-rCDCn4WFifQ72-23">
+          <mxGeometry x="0.125" y="30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-12" value="Apakah ingin mengelola&lt;br&gt;nilai rapot?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="610" width="220" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-14" target="UoAHRF-rCDCn4WFifQ72-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-14" value="Menu untuk mengisi&lt;br&gt;absen harian bertugas" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-16" target="UoAHRF-rCDCn4WFifQ72-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-16" value="Menu untuk mengelola&lt;br&gt;nilai ulangan" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="456.5" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-18" target="UoAHRF-rCDCn4WFifQ72-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-18" value="Menu untuk mengelola&lt;br&gt;nilai rapot" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="626.5" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-19" value="End" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1021.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-20" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-23" target="UoAHRF-rCDCn4WFifQ72-25">
+          <mxGeometry y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="761" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-22" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-23" target="UoAHRF-rCDCn4WFifQ72-43">
+          <mxGeometry x="-0.0714" y="30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="250" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-23" value="Apakah ingin menentukan&lt;br&gt;predikat dan standart&lt;br&gt;penilaian?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="770" width="285" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-25" target="UoAHRF-rCDCn4WFifQ72-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-25" value="Menu untuk menentukan&lt;br&gt;predikat dan standart&lt;br&gt;penilaian" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="797.25" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-41" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-43" target="UoAHRF-rCDCn4WFifQ72-19">
+          <mxGeometry y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="457.60000000000014" y="1036.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-43" target="UoAHRF-rCDCn4WFifQ72-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1036" />
+              <mxPoint x="90" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-43" value="Apakah ingin log out" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="980" width="220" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-45" target="UoAHRF-rCDCn4WFifQ72-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-45" value="Halaman Dashboard Guru" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="125" y="150" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-47" target="UoAHRF-rCDCn4WFifQ72-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-47" value="Input absen dan Simpan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.27;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-49" target="UoAHRF-rCDCn4WFifQ72-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-49" value="Input nilai&lt;br&gt;dan Simpan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="456.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-51" target="UoAHRF-rCDCn4WFifQ72-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-51" value="Input nilai&lt;br&gt;dan Simpan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="626.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.265;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-53" target="UoAHRF-rCDCn4WFifQ72-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="837" />
+              <mxPoint x="1010" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-53" value="Input Data&lt;br&gt;dan Simpan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="797.25" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="UoAHRF-rCDCn4WFifQ72-61" target="UoAHRF-rCDCn4WFifQ72-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAHRF-rCDCn4WFifQ72-61" value="Menyimpan Data&lt;br&gt;Ke Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="560" width="200" height="152.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
