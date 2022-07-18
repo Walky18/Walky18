@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T19:49:33.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.2" etag="Lkij_B7mPSw5qY-yj08y" type="github"><diagram id="l8BB1oHsoC_mK6OZiEsA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-18T19:57:47.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nDM3AvaEmHFjhNkOUqS2" version="20.0.2" type="github">
+  <diagram id="l8BB1oHsoC_mK6OZiEsA" name="Page-1">
+    <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="760" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.5" y="480" as="sourcePoint" />
+            <mxPoint x="267.5" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-4" value="Selama&lt;font&gt;t Datang,&lt;br&gt;Di SIKAS&lt;br&gt;SMA Negeri 1 Ogan Ilir&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="130" y="65" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-5" value="Dashboard&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Absen&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Jadwal&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Nilai&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;spacing=5;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130.5" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-14" value="Selamat Datang" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="298" y="121" width="502" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-15" value="Guru" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-16" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="180" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-23" value="Pengumuman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p84OwzjT6wH2DmhsU0QV-24" value="Keterangan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="240" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
