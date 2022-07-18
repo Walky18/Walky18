@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T19:48:50.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iaRqjaXjiP500-iPvQ9G" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T20:03:05.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="f49BRwvmUyoCa3Iv9DaN" version="20.0.2" type="github">
   <diagram id="zYZ3z0kXrqlMKy9uRDjo" name="Page-1">
-    <mxGraphModel dx="1605" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1605" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,16 +55,16 @@
         <mxCell id="dYZblXxHGsnLizH9Tfhb-20" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="140.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dYZblXxHGsnLizH9Tfhb-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dYZblXxHGsnLizH9Tfhb-21" value="Data Guru" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="298" y="262" width="112" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dYZblXxHGsnLizH9Tfhb-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dYZblXxHGsnLizH9Tfhb-22" value="Data Jadwal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="262" width="112" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dYZblXxHGsnLizH9Tfhb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dYZblXxHGsnLizH9Tfhb-23" value="Data Mapel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="688" y="262" width="112" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dYZblXxHGsnLizH9Tfhb-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dYZblXxHGsnLizH9Tfhb-25" value="Data Murid" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="430" y="262" width="112" height="60" as="geometry" />
         </mxCell>
       </root>
